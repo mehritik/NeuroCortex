@@ -1,6 +1,10 @@
-# EEG Signals Classification Android Application 
+<p align="center">
+<img src="https://github.com/user-attachments/assets/933ade89-dcb0-4e0c-b7c6-38f51cafd93f" >
+</p>
 
-https://github.com/user-attachments/assets/bfc203e1-e208-4b13-8dc9-6a8451bc3052
+# NeuroCortex - EEG Signals Classification Android Application 
+
+## Demo Video Link - https://drive.google.com/file/d/1h5ycY5B-u9mjNPssmp-RK0dBbAYUjt-N/view
 
 ## Brief Description of the Idea
 
